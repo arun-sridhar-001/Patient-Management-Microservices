@@ -89,8 +89,3 @@ Dockerized for local testing
 Cloud-ready via LocalStack
 
 ---
-
-## 📬 Contact
-- Created by **Arunachalam S**
-
-- 📧 LinkedIn - [www.linkedin.com/in/arunachalam-s-javadeveloper]
